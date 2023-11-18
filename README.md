@@ -39,17 +39,17 @@ consistente.
 - O resultado final era inovador? Por quê?
 ```
 O resultado final provavelmente foi inovador em termos de eficiência operacional e na qualidade dos
-produtos entregues. Ao adotar o Scrum com o suporte da ágil42 GmbH, a equipe pôde melhorar
-significativamente sua capacidade de gerenciamento de projetos, colaboração e entrega de valor ao
-cliente de maneira mais rápida e consistente. A inovação aqui reside na melhoria do processo e na
-capacidade de adaptar-se rapidamente às mudanças, aumentando a eficiência e a qualidade do trabalho.
+produtos entregues. Por que ao adotar o Scrum framework com o suporte da ágil42 GmbH, a equipe pôde
+melhorar significativamente sua capacidade de gerenciamento de projetos, colaboração e entrega de
+valor ao cliente de maneira mais rápida e consistente. A inovação aqui reside na melhoria do processo
+e na capacidade de adaptar-se rapidamente às mudanças, aumentando a eficiência e a qualidade do trabalho.
 ```
 
 - O que você faria de diferente?
 ```
-Em minha experiência, considerando a transição para uma metodologia ágil como o Scrum, priorizaria
-ainda mais a cultura e o ajuste organizacional. A mudança para uma metodologia ágil não se limita
-apenas à implementação de práticas e estruturas, mas requer uma mudança cultural significativa
-dentro da organização. Focar mais na mudança cultural, alinhando valores, mentalidades e comportamentos,
-poderia acelerar ainda mais a adoção e os resultados positivos da metodologia ágil.
+Em minha experiência, considerando a transição para o Scrum, priorizaria ainda mais a cultura e o
+ajuste organizacional. A mudança para uma metodologia ágil não se limita apenas à implementação de
+práticas e estruturas, mas requer uma mudança cultural significativa dentro da organização. Focar
+mais na mudança cultural, alinhando valores, mentalidades e comportamentos, poderia acelerar ainda
+mais a adoção e os resultados positivos da metodologia ágil.
 ```
